@@ -9,5 +9,6 @@ Charikar, Moses. "Greedy approximation algorithms for finding dense components i
 One implementation is based in dictionaries (O(mn)), another uses Fibonacci heaps O(m+n log(n)). 
 
 Referencies:
-https://pypi.python.org/pypi/fibonacci-heap-mod .
+* https://networkx.github.io/
+* https://pypi.python.org/pypi/fibonacci-heap-mod .
 
